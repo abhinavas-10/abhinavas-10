@@ -1,16 +1,17 @@
-## Hi there 👋
+i, I'm Abhinav A S 👋
 
-<!--
-**abhinavas-10/abhinavas-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn data into business insights, build Android apps, and write Python tools for security basics.
 
-Here are some ideas to get you started:
+🚀 Featured projects
+Project	What it is	Tech
+Consumer Shopping Behavior Analysis	Retail business case: Python cleaning, SQL analysis, Power BI dashboard, report and slides	Python · Pandas · SQL · Power BI
+Namma Vastra	Android e-commerce app with customer and seller roles, cart and real-time inventory	Kotlin · Jetpack Compose · MVVM · Firebase
+Movie & TV Show Analytics Dashboard	Interactive dashboard of titles by genre, year and country	Power BI
+Phishing URL Detector	Classifies URLs as safe, suspicious or phishing using common warning signs	Python
+Python Port Scanner	CLI tool that finds open TCP ports in a chosen range	Python · Sockets
+🛠️ Tech I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Show Image Show Image Show Image Show Image Show Image
+
+📫 Find me
+GitHub: @abhinavas-10
